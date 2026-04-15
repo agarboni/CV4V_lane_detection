@@ -1,0 +1,9 @@
+# Core notebook runtime
+ipykernel==7.2.0
+jupyter_client==8.8.0
+
+# Computer vision and image processing
+opencv-python==4.13.0.92
+numpy==2.4.3
+matplotlib==3.10.8
+pillow==12.1.1
